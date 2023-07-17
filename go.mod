@@ -1,4 +1,4 @@
-module github.com/ava-labs/subnet-evm
+module github.com/cgcardona/r-subnet-evm
 
 go 1.19
 
