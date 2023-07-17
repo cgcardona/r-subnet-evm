@@ -27,7 +27,7 @@
 package rawdb
 
 import (
-	"github.com/ava-labs/subnet-evm/ethdb"
+	"github.com/cgcardona/r-subnet-evm/ethdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

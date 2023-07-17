@@ -32,11 +32,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ava-labs/subnet-evm/core"
-	"github.com/ava-labs/subnet-evm/core/state"
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/core/vm"
-	"github.com/ava-labs/subnet-evm/trie"
+	"github.com/cgcardona/r-subnet-evm/core"
+	"github.com/cgcardona/r-subnet-evm/core/state"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/core/vm"
+	"github.com/cgcardona/r-subnet-evm/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

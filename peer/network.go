@@ -22,8 +22,8 @@ import (
 	"github.com/ava-labs/avalanchego/utils/set"
 	"github.com/ava-labs/avalanchego/version"
 
-	"github.com/ava-labs/subnet-evm/peer/stats"
-	"github.com/ava-labs/subnet-evm/plugin/evm/message"
+	"github.com/cgcardona/r-subnet-evm/peer/stats"
+	"github.com/cgcardona/r-subnet-evm/plugin/evm/message"
 )
 
 // Minimum amount of time to handle a request

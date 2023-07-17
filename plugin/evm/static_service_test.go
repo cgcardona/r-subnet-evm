@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/ava-labs/avalanchego/utils/formatting"
-	"github.com/ava-labs/subnet-evm/core"
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/core"
+	"github.com/cgcardona/r-subnet-evm/params"
 	"github.com/stretchr/testify/assert"
 )
 

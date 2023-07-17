@@ -13,9 +13,9 @@ package {{.Package}}
 import (
 	"math/big"
 
-	"github.com/ava-labs/subnet-evm/precompile/precompileconfig"
+	"github.com/cgcardona/r-subnet-evm/precompile/precompileconfig"
 	{{- if .Contract.AllowList}}
-	"github.com/ava-labs/subnet-evm/precompile/allowlist"
+	"github.com/cgcardona/r-subnet-evm/precompile/allowlist"
 
 	"github.com/ethereum/go-ethereum/common"
 	{{- end}}

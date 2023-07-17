@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ava-labs/subnet-evm/core"
-	"github.com/ava-labs/subnet-evm/eth"
+	"github.com/cgcardona/r-subnet-evm/core"
+	"github.com/cgcardona/r-subnet-evm/eth"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/spf13/cast"
 )

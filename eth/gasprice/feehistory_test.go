@@ -32,12 +32,12 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/core"
-	"github.com/ava-labs/subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/core"
+	"github.com/cgcardona/r-subnet-evm/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ava-labs/subnet-evm/params"
-	"github.com/ava-labs/subnet-evm/rpc"
+	"github.com/cgcardona/r-subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/rpc"
 	"github.com/ethereum/go-ethereum/common"
 )
 

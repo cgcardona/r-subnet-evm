@@ -4,11 +4,11 @@
 package statesync
 
 import (
-	"github.com/ava-labs/subnet-evm/core/rawdb"
-	"github.com/ava-labs/subnet-evm/core/state/snapshot"
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/ethdb"
-	"github.com/ava-labs/subnet-evm/trie"
+	"github.com/cgcardona/r-subnet-evm/core/rawdb"
+	"github.com/cgcardona/r-subnet-evm/core/state/snapshot"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/ethdb"
+	"github.com/cgcardona/r-subnet-evm/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

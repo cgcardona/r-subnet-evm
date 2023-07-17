@@ -30,9 +30,9 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/ethdb"
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/ethdb"
+	"github.com/cgcardona/r-subnet-evm/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"

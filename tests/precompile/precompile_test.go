@@ -11,8 +11,8 @@ import (
 	"github.com/onsi/gomega"
 
 	// Import the solidity package, so that ginkgo maps out the tests declared within the package
-	_ "github.com/ava-labs/subnet-evm/tests/precompile/solidity"
-	"github.com/ava-labs/subnet-evm/tests/utils"
+	_ "github.com/cgcardona/r-subnet-evm/tests/precompile/solidity"
+	"github.com/cgcardona/r-subnet-evm/tests/utils"
 )
 
 func init() {

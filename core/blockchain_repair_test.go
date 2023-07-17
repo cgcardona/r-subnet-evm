@@ -34,11 +34,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/consensus/dummy"
-	"github.com/ava-labs/subnet-evm/core/rawdb"
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/core/vm"
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/consensus/dummy"
+	"github.com/cgcardona/r-subnet-evm/core/rawdb"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/core/vm"
+	"github.com/cgcardona/r-subnet-evm/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

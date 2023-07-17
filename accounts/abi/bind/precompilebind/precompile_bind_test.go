@@ -29,7 +29,7 @@ package precompilebind
 import (
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/accounts/abi/bind"
+	"github.com/cgcardona/r-subnet-evm/accounts/abi/bind"
 	"github.com/stretchr/testify/require"
 )
 

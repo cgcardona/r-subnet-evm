@@ -29,8 +29,8 @@ package trie
 import (
 	"sync"
 
-	"github.com/ava-labs/subnet-evm/core/rawdb"
-	"github.com/ava-labs/subnet-evm/ethdb"
+	"github.com/cgcardona/r-subnet-evm/core/rawdb"
+	"github.com/cgcardona/r-subnet-evm/ethdb"
 	"github.com/ethereum/go-ethereum/common"
 )
 

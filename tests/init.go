@@ -31,7 +31,7 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/params"
 )
 
 // Forks table defines supported forks and their chain config.

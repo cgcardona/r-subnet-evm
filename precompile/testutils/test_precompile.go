@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/subnet-evm/commontype"
-	"github.com/ava-labs/subnet-evm/precompile/contract"
-	"github.com/ava-labs/subnet-evm/precompile/modules"
-	"github.com/ava-labs/subnet-evm/precompile/precompileconfig"
+	"github.com/cgcardona/r-subnet-evm/commontype"
+	"github.com/cgcardona/r-subnet-evm/precompile/contract"
+	"github.com/cgcardona/r-subnet-evm/precompile/modules"
+	"github.com/cgcardona/r-subnet-evm/precompile/precompileconfig"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

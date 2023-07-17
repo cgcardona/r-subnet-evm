@@ -31,10 +31,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ava-labs/subnet-evm/core/rawdb"
-	"github.com/ava-labs/subnet-evm/core/state"
-	"github.com/ava-labs/subnet-evm/core/vm"
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/core/rawdb"
+	"github.com/cgcardona/r-subnet-evm/core/state"
+	"github.com/cgcardona/r-subnet-evm/core/vm"
+	"github.com/cgcardona/r-subnet-evm/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

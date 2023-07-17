@@ -29,9 +29,9 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/ava-labs/subnet-evm/accounts"
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/interfaces"
+	"github.com/cgcardona/r-subnet-evm/accounts"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/interfaces"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 

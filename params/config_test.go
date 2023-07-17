@@ -32,9 +32,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/precompile/contracts/nativeminter"
-	"github.com/ava-labs/subnet-evm/precompile/contracts/rewardmanager"
-	"github.com/ava-labs/subnet-evm/precompile/contracts/txallowlist"
+	"github.com/cgcardona/r-subnet-evm/precompile/contracts/nativeminter"
+	"github.com/cgcardona/r-subnet-evm/precompile/contracts/rewardmanager"
+	"github.com/cgcardona/r-subnet-evm/precompile/contracts/txallowlist"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

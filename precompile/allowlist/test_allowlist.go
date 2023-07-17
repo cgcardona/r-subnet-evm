@@ -6,10 +6,10 @@ package allowlist
 import (
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/precompile/contract"
-	"github.com/ava-labs/subnet-evm/precompile/modules"
-	"github.com/ava-labs/subnet-evm/precompile/testutils"
-	"github.com/ava-labs/subnet-evm/vmerrs"
+	"github.com/cgcardona/r-subnet-evm/precompile/contract"
+	"github.com/cgcardona/r-subnet-evm/precompile/modules"
+	"github.com/cgcardona/r-subnet-evm/precompile/testutils"
+	"github.com/cgcardona/r-subnet-evm/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

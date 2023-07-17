@@ -7,9 +7,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/precompile/allowlist"
-	"github.com/ava-labs/subnet-evm/precompile/precompileconfig"
-	"github.com/ava-labs/subnet-evm/precompile/testutils"
+	"github.com/cgcardona/r-subnet-evm/precompile/allowlist"
+	"github.com/cgcardona/r-subnet-evm/precompile/precompileconfig"
+	"github.com/cgcardona/r-subnet-evm/precompile/testutils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 )

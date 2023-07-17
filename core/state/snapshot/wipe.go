@@ -30,8 +30,8 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/ava-labs/subnet-evm/core/rawdb"
-	"github.com/ava-labs/subnet-evm/ethdb"
+	"github.com/cgcardona/r-subnet-evm/core/rawdb"
+	"github.com/cgcardona/r-subnet-evm/ethdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

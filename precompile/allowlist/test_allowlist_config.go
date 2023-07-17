@@ -7,9 +7,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/precompile/modules"
-	"github.com/ava-labs/subnet-evm/precompile/precompileconfig"
-	"github.com/ava-labs/subnet-evm/precompile/testutils"
+	"github.com/cgcardona/r-subnet-evm/precompile/modules"
+	"github.com/cgcardona/r-subnet-evm/precompile/precompileconfig"
+	"github.com/cgcardona/r-subnet-evm/precompile/testutils"
 	"github.com/ethereum/go-ethereum/common"
 )
 

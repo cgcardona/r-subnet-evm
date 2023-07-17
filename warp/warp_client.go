@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/subnet-evm/rpc"
+	"github.com/cgcardona/r-subnet-evm/rpc"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )
 

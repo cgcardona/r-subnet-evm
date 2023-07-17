@@ -27,7 +27,7 @@
 package node
 
 import (
-	"github.com/ava-labs/subnet-evm/rpc"
+	"github.com/cgcardona/r-subnet-evm/rpc"
 )
 
 const (

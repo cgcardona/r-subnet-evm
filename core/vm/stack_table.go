@@ -27,7 +27,7 @@
 package vm
 
 import (
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/params"
 )
 
 func minSwapStack(n int) int {

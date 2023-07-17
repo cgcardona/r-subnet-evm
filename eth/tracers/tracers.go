@@ -21,7 +21,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/ava-labs/subnet-evm/core/vm"
+	"github.com/cgcardona/r-subnet-evm/core/vm"
 	"github.com/ethereum/go-ethereum/common"
 )
 

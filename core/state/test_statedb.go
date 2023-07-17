@@ -6,8 +6,8 @@ package state
 import (
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/ethdb/memorydb"
-	"github.com/ava-labs/subnet-evm/precompile/contract"
+	"github.com/cgcardona/r-subnet-evm/ethdb/memorydb"
+	"github.com/cgcardona/r-subnet-evm/precompile/contract"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

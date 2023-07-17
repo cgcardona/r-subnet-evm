@@ -6,7 +6,7 @@ package precompileconfig
 import (
 	"math/big"
 
-	"github.com/ava-labs/subnet-evm/utils"
+	"github.com/cgcardona/r-subnet-evm/utils"
 )
 
 // Upgrade contains the timestamp for the upgrade along with

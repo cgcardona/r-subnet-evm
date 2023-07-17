@@ -40,7 +40,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/ava-labs/subnet-evm/accounts/abi"
+	"github.com/cgcardona/r-subnet-evm/accounts/abi"
 	"github.com/ethereum/go-ethereum/log"
 )
 

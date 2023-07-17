@@ -33,21 +33,21 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/accounts/abi"
-	"github.com/ava-labs/subnet-evm/consensus"
-	"github.com/ava-labs/subnet-evm/core"
-	"github.com/ava-labs/subnet-evm/core/rawdb"
-	"github.com/ava-labs/subnet-evm/core/state"
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/core/vm"
-	"github.com/ava-labs/subnet-evm/eth/tracers"
-	"github.com/ava-labs/subnet-evm/eth/tracers/logger"
-	"github.com/ava-labs/subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/accounts/abi"
+	"github.com/cgcardona/r-subnet-evm/consensus"
+	"github.com/cgcardona/r-subnet-evm/core"
+	"github.com/cgcardona/r-subnet-evm/core/rawdb"
+	"github.com/cgcardona/r-subnet-evm/core/state"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/core/vm"
+	"github.com/cgcardona/r-subnet-evm/eth/tracers"
+	"github.com/cgcardona/r-subnet-evm/eth/tracers/logger"
+	"github.com/cgcardona/r-subnet-evm/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/asm"
 
 	// force-load native tracers to trigger registration
-	_ "github.com/ava-labs/subnet-evm/eth/tracers/native"
+	_ "github.com/cgcardona/r-subnet-evm/eth/tracers/native"
 )
 
 func TestDefaults(t *testing.T) {

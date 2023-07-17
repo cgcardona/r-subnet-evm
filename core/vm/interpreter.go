@@ -29,7 +29,7 @@ package vm
 import (
 	"hash"
 
-	"github.com/ava-labs/subnet-evm/vmerrs"
+	"github.com/cgcardona/r-subnet-evm/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/log"

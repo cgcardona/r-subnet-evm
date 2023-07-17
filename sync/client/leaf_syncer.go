@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ava-labs/subnet-evm/plugin/evm/message"
-	"github.com/ava-labs/subnet-evm/utils"
+	"github.com/cgcardona/r-subnet-evm/plugin/evm/message"
+	"github.com/cgcardona/r-subnet-evm/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"golang.org/x/sync/errgroup"

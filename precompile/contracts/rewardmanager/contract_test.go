@@ -6,12 +6,12 @@ package rewardmanager
 import (
 	"testing"
 
-	"github.com/ava-labs/subnet-evm/constants"
-	"github.com/ava-labs/subnet-evm/core/state"
-	"github.com/ava-labs/subnet-evm/precompile/allowlist"
-	"github.com/ava-labs/subnet-evm/precompile/contract"
-	"github.com/ava-labs/subnet-evm/precompile/testutils"
-	"github.com/ava-labs/subnet-evm/vmerrs"
+	"github.com/cgcardona/r-subnet-evm/constants"
+	"github.com/cgcardona/r-subnet-evm/core/state"
+	"github.com/cgcardona/r-subnet-evm/precompile/allowlist"
+	"github.com/cgcardona/r-subnet-evm/precompile/contract"
+	"github.com/cgcardona/r-subnet-evm/precompile/testutils"
+	"github.com/cgcardona/r-subnet-evm/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

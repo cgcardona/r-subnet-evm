@@ -8,7 +8,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ava-labs/subnet-evm/tests/utils"
+	"github.com/cgcardona/r-subnet-evm/tests/utils"
 	ginkgo "github.com/onsi/ginkgo/v2"
 )
 

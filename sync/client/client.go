@@ -13,9 +13,9 @@ import (
 
 	"github.com/ava-labs/avalanchego/ids"
 
-	"github.com/ava-labs/subnet-evm/ethdb/memorydb"
-	"github.com/ava-labs/subnet-evm/params"
-	"github.com/ava-labs/subnet-evm/sync/client/stats"
+	"github.com/cgcardona/r-subnet-evm/ethdb/memorydb"
+	"github.com/cgcardona/r-subnet-evm/params"
+	"github.com/cgcardona/r-subnet-evm/sync/client/stats"
 
 	"github.com/ava-labs/avalanchego/codec"
 	"github.com/ava-labs/avalanchego/version"
@@ -24,11 +24,11 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/ava-labs/subnet-evm/core/types"
-	"github.com/ava-labs/subnet-evm/ethdb"
-	"github.com/ava-labs/subnet-evm/peer"
-	"github.com/ava-labs/subnet-evm/plugin/evm/message"
-	"github.com/ava-labs/subnet-evm/trie"
+	"github.com/cgcardona/r-subnet-evm/core/types"
+	"github.com/cgcardona/r-subnet-evm/ethdb"
+	"github.com/cgcardona/r-subnet-evm/peer"
+	"github.com/cgcardona/r-subnet-evm/plugin/evm/message"
+	"github.com/cgcardona/r-subnet-evm/trie"
 )
 
 const (

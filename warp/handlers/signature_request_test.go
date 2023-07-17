@@ -13,9 +13,9 @@ import (
 	"github.com/ava-labs/avalanchego/snow"
 	"github.com/ava-labs/avalanchego/utils/crypto/bls"
 	avalancheWarp "github.com/ava-labs/avalanchego/vms/platformvm/warp"
-	"github.com/ava-labs/subnet-evm/plugin/evm/message"
-	"github.com/ava-labs/subnet-evm/warp"
-	"github.com/ava-labs/subnet-evm/warp/handlers/stats"
+	"github.com/cgcardona/r-subnet-evm/plugin/evm/message"
+	"github.com/cgcardona/r-subnet-evm/warp"
+	"github.com/cgcardona/r-subnet-evm/warp/handlers/stats"
 	"github.com/stretchr/testify/require"
 )
 

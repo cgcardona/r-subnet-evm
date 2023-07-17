@@ -8,8 +8,8 @@ import (
 	"math/big"
 
 	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/subnet-evm/commontype"
-	"github.com/ava-labs/subnet-evm/precompile/precompileconfig"
+	"github.com/cgcardona/r-subnet-evm/commontype"
+	"github.com/cgcardona/r-subnet-evm/precompile/precompileconfig"
 	"github.com/ethereum/go-ethereum/common"
 )
 
